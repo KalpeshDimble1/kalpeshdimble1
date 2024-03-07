@@ -1,8 +1,8 @@
 # 💫 About Me:
 👋 Hello there! I'm Kalpesh, a passionate front-end developer based in Pune, India. With a Bachelor's degree in Information Technology and a Diploma in Computer Science under my belt, I've honed my skills to craft engaging and user-friendly web experiences.<br><br>
 💻 As a front-end developer, I specialize in bringing designs to life using HTML, CSS, and JavaScript. I love the challenge of creating intuitive interfaces and ensuring seamless interactions for users.<br><br>
+📊 "As a Data Science Enthusiast, I thrive on exploring the intricate patterns hidden within vast datasets and deriving meaningful insights. With a passion for uncovering actionable intelligence from data, I leverage my analytical skills and knowledge of statistical methods and machine learning algorithms to tackle real-world challenges.I am dedicated to continuously honing my skills and staying updated with the latest advancements in the field. My goal is to contribute to innovative solutions that drive business growth and societal impact through the power of data."<br><br>
 🌟 Currently, I'm exploring the latest trends and different technologies in web development to stay at the forefront of the industry. My goal is to continually enhance my skills and contribute to cutting-edge projects that make a difference.<br><br>
-📊 "As a Data Science Enthusiast, I thrive on exploring the intricate patterns hidden within vast datasets and deriving meaningful insights. With a passion for uncovering actionable intelligence from data, I leverage my analytical skills and knowledge of statistical methods and machine learning algorithms to tackle real-world challenges. Whether it's predictive modeling, data visualization, or storytelling with data, I am dedicated to continuously honing my skills and staying updated with the latest advancements in the field. My goal is to contribute to innovative solutions that drive business growth and societal impact through the power of data."<br><br>
 🌐 Let's connect and collaborate on exciting projects! Feel free to reach out to me here on GitHub or connect with me on LinkedIn. I'm always open to new opportunities and collaborations.
 
 
@@ -39,5 +39,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kalpeshdimble1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=kalpeshdimble1&label=Profile%20Views&color=0&icon=1&pretty=false&all=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kalpeshdimble1&label=Profile%20Views&color=0&icon=1&pretty=false&all=true)](https://visitcount.itsvg.in)<br>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=kalpeshdimble1&labelColor=%23697689&countColor=%23263759&style=plastic)
