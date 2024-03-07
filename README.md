@@ -41,3 +41,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kalpeshdimble1&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=kalpeshdimble1&labelColor=%23697689&countColor=%23263759&style=plastic)
