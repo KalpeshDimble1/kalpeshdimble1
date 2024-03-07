@@ -39,9 +39,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kalpeshdimble1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=kalpeshdimble1&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=kalpeshdimble1&label=Profile%20Views&color=0&icon=1&pretty=false&all=true)](https://visitcount.itsvg.in)
-
-
+[![](https://visitcount.itsvg.in/api?id=kalpeshdimble1&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=kalpeshdimble1&labelColor=%23697689&countColor=%23263759&style=plastic)
