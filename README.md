@@ -1,10 +1,32 @@
 # 💫 About Me:
-👋 Hello there! I'm Kalpesh, a passionate front-end developer based in Pune, India. With a Bachelor's degree in Information Technology and a Diploma in Computer Science under my belt, I've honed my skills to craft engaging and user-friendly web experiences.<br><br>
-💻 As a front-end developer, I specialize in bringing designs to life using HTML, CSS, and JavaScript. I love the challenge of creating intuitive interfaces and ensuring seamless interactions for users.<br><br>
-📊 As a Data Science Enthusiast, I thrive on exploring the intricate patterns hidden within vast datasets and deriving meaningful insights. With a passion for uncovering actionable intelligence from data, I leverage my analytical skills and knowledge of statistical methods and machine learning algorithms to tackle real-world challenges.I am dedicated to continuously honing my skills and staying updated with the latest advancements in the field. My goal is to contribute to innovative solutions that drive business growth and societal impact through the power of data.<br><br>
-🌟 Currently, I'm exploring the latest trends and different technologies in web development to stay at the forefront of the industry. My goal is to continually enhance my skills and contribute to cutting-edge projects that make a difference.<br><br>
-🌐 Let's connect and collaborate on exciting projects! Feel free to reach out to me here on GitHub or connect with me on LinkedIn. I'm always open to new opportunities and collaborations.
+👋 Hello! I’m Kalpesh Dimble — a Data Analyst & Machine Learning enthusiast based in Brighton, United Kingdom. I recently graduated with a Master’s degree in Data Science from the University of Sussex, where I immersed myself in transforming raw data into powerful business intelligence.
 
+📚 During my time at university, I discovered something that changed my entire career direction: every dataset has a story — a story that can improve decisions, unlock opportunities, and shape strategies. I worked on projects that helped businesses understand customer behaviour, optimise performance, and predict future trends using Python, SQL, Machine Learning, and data visualisation tools like Power BI and Tableau. These experiences taught me not just how to analyse data, but how to translate insights into clear actions that drive business growth.
+
+🔍 My journey didn’t start with data, though. I began as a front-end developer, creating seamless digital experiences with HTML, CSS and JavaScript. That foundation gave me a strong appreciation for user needs, attention to detail, and the importance of making complex information feel simple and intuitive.
+
+💡 Today, I combine both worlds — technical analytics and user-focused design.
+I enjoy solving problems, uncovering meaningful insights, and supporting teams with the right information at the right time. Whether it’s designing a KPI dashboard, building a predictive model, or improving data processes, I always ask:
+How does this insight make someone’s job easier or decision smarter?
+
+🚀 I’m now actively exploring opportunities where I can contribute to real-world data challenges — especially roles focused on analytics, data products, or insight generation within collaborative teams.
+
+✨ What drives me?
+
+Turning complex data into clear and actionable stories
+
+Partnering with stakeholders to understand business goals
+
+Creating real value — not just reports
+
+Continuous learning in AI, ML, and modern data tools
+
+Bringing curiosity, integrity, and accountability to every task
+
+📩 If you’re looking for someone who cares deeply about both the numbers and the people behind the decisions — I’d love to connect. Let’s build smarter, data-driven solutions together.
+
+📬 Reach Out | Let’s Chat
+Here on GitHub or LinkedIn — always open to collaborations, graduate roles, and opportunities to make an impact through data.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalpesh-dimble)
