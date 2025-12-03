@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I’m Kalpesh Dimble — a Data Analyst & Machine Learning enthusiast based in Brighton, United Kingdom. I recently graduated with a Master’s degree in Data Science from the University of Sussex, where I immersed myself in transforming raw data into powerful business intelligence.
+👋 Hello! I’m Kalpesh Dimble — a Data Analyst & Machine Learning enthusiast based in United Kingdom. I recently graduated with a Master’s degree in Data Science from the University of Sussex, where I immersed myself in transforming raw data into powerful business intelligence.
 
 📚 During my time at university, I discovered something that changed my entire career direction: every dataset has a story — a story that can improve decisions, unlock opportunities, and shape strategies. I worked on projects that helped businesses understand customer behaviour, optimise performance, and predict future trends using Python, SQL, Machine Learning, and data visualisation tools like Power BI and Tableau. These experiences taught me not just how to analyse data, but how to translate insights into clear actions that drive business growth.
 
