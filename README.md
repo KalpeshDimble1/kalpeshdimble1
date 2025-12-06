@@ -39,7 +39,7 @@ Here on GitHub or LinkedIn — always open to collaborations, graduate roles, an
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Workbook-217346?style=plastic&logo=microsoft-excel&logoColor=ffffff)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Models-6f42c1?style=plastic&logo=tensorflow&logoColor=ffffff)
-![Data](https://img.shields.io/badge/Data-Analytics-00B7C3?style=plastic&logo=databricks&logoColor=ffffff)
+![Data](https://img.shields.io/badge/Data-00B7C3?style=plastic&logo=databricks&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
