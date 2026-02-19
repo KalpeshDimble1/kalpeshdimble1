@@ -1,15 +1,5 @@
 # 💫 About Me:
-👋 Hello! I’m Kalpesh Dimble — a Data Analyst & Machine Learning enthusiast based in United Kingdom. I recently graduated with a Master’s degree in Data Science from the University of Sussex, where I immersed myself in transforming raw data into powerful business intelligence.
-
-📚 During my time at university, I discovered something that changed my entire career direction: every dataset has a story — a story that can improve decisions, unlock opportunities, and shape strategies. I worked on projects that helped businesses understand customer behaviour, optimise performance, and predict future trends using Python, SQL, Machine Learning, and data visualisation tools like Power BI and Tableau. These experiences taught me not just how to analyse data, but how to translate insights into clear actions that drive business growth.
-
-🔍 My journey didn’t start with data, though. I began as a front-end developer, creating seamless digital experiences with HTML, CSS and JavaScript. That foundation gave me a strong appreciation for user needs, attention to detail, and the importance of making complex information feel simple and intuitive.
-
-💡 Today, I combine both worlds — technical analytics and user-focused design.
-I enjoy solving problems, uncovering meaningful insights, and supporting teams with the right information at the right time. Whether it’s designing a KPI dashboard, building a predictive model, or improving data processes, I always ask:
-How does this insight make someone’s job easier or decision smarter?
-
-🚀 I’m now actively exploring opportunities where I can contribute to real-world data challenges — especially roles focused on analytics, data products, or insight generation within collaborative teams.
+👋 Hello! I’m Kalpesh Dimble — Data Scientist & Analyst with a Master's in Data Science (Distinction) and over one year of professional experience bridging advanced machine learning with business intelligence. Specialising in end-to-end model development — including ensemble methods (XGBoost, SVM) and neural architectures (BiLSTM-CRF, PyTorch) — achieving up to 94% model accuracy and 15% performance improvement through feature engineering and hyperparameter tuning. Equally proficient in translating complex datasets into actionable insights via Power BI, Tableau, SQL, and Python, with hands-on expertise building ETL pipelines, interactive dashboards, and KPI-driven reporting for operational and finance environments. Skilled across the full data lifecycle — from extraction, transformation, and validation to deep learning 
 
 ✨ What drives me?
 
